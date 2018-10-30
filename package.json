@@ -1,0 +1,8 @@
+{
+  "name": "evrythng-cli-plugin-greeter",
+  "version": "1.0.0",
+  "description": "Example plugin for the EVRYTHNG CLI that adds a 'greet' command.",
+  "main": "index.js",
+  "author": "EVRYTHNG",
+  "license": "Apache-2.0"
+}
