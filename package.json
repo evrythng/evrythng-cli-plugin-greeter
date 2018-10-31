@@ -4,5 +4,9 @@
   "description": "Example plugin for the EVRYTHNG CLI that adds a 'greet' command.",
   "main": "index.js",
   "author": "EVRYTHNG",
-  "license": "Apache-2.0"
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/evrythng/evrythng-cli-plugin-greeter.git"
+  },
 }
